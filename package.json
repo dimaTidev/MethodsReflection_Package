@@ -1,14 +1,14 @@
 {
-"name": "com.dimatidev.methodsreflection",
-"displayName": "MethodsReflection",
-"version": "0.0.1",
-"unity": "2018.4",
-"description": "Scripts with reflection methods. For search variable or method and invoke it. Work like unityEvent",
-"author": "DimaTi <timofeenkodima@gmail.com> (https://github.com/dimaTidev)",
-"category": "",
-"repository": 
-{
-  "type": "git",
-  "url": "https://github.com/dimaTidev/Package_MethodsReflection.git",
-}
+    "name": "com.dimatidev.methodsreflection",
+    "displayName": "MethodsReflection",
+    "version": "0.0.2",
+    "unity": "2018.4",
+    "description": "Scripts with reflection methods. For search variable or method and invoke it. Work like unityEvent",
+    "author": "DimaTi <timofeenkodima@gmail.com> (https://github.com/dimaTidev)",
+    "category": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dimaTidev/Package_MethodsReflection.git"
+    },
+    "dependencies": []
 }
