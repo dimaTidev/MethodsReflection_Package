@@ -1,0 +1,14 @@
+{
+    "name": "com.dimatidev.methodsreflection.RuntimeTests",
+    "references": [
+        "com.dimatidev.methodsreflection.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
