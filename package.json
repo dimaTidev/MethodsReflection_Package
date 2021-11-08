@@ -5,6 +5,9 @@
     "unity": "2018.4",
     "description": "Scripts with reflection methods. For search variable or method and invoke it. Work like unityEvent",
     "author": "DimaTi <timofeenkodima@gmail.com> (https://github.com/dimaTidev)",
+    "keywords": [
+    "Base"
+    ],
     "category": "",
     "repository": {
         "type": "git",
